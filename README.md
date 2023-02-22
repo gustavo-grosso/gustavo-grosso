@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, Sou o Gustavo Grosso! </h1>
 
-<!--
-**gustavo-grosso/gustavo-grosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Olá! Meu nome é Gustavo e sou um profissional com experiência em ciências da saúde. Recentemente, tomei a decisão de fazer uma transição de carreira para explorar novos desafios e oportunidades.
 
-Here are some ideas to get you started:
+Durante minha trajetória profissional, desenvolvi habilidades pessoais e profissionais referentes à capacidade de se expressar de forma clara, de trabalhar em equipe e estabelecer relacionamentos positivos e de lidar com mudanças e se ajustar a novas situações ou ambientes. Além disso, estou dedicando meu tempo para aprender mais sobre análise e desenvolvimento de sistemas e estou animado com as perspectivas de crescimento e aprendizado nesta área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou aberto a novas oportunidades e colaborações, e acredito que posso trazer uma perspectiva única e valiosa para equipes e projetos em minha nova área de atuação. Se você estiver buscando alguém com um perfil multidisciplinar e adaptável, por favor, sinta-se à vontade para entrar em contato. Estou ansioso para conhecer novas pessoas e empresas e explorar as possibilidades que surgirem nesta nova fase da minha carreira.
+
+Graduando em Análise e Desenvolvimento de Sistemas.
+Contato: gustavolgrosso@gmail.com</h3>
+
+
+
